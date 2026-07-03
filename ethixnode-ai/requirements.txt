@@ -1,0 +1,17 @@
+# Core API Framework
+fastapi
+uvicorn
+
+# Data Validation
+pydantic
+
+# Data Processing & NLP
+yfinance
+pandas
+feedparser
+nltk
+
+# Deep Learning & Database
+torch
+scikit-learn
+psycopg2-binary
